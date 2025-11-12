@@ -10,7 +10,7 @@
   <h2>Tentang Saya</h2>
   <ul>
     <li><strong>Coding Harian</strong> menuju penguasaan sebelum usia 20</li>
-    <li>Membangun alat saya sendiri: <code>Tools Encryptor</code>, Pemindai SQLi, dan banyak lagi</li>
+    <li>Membangun alat saya sendiri: <code>Tools Decryptor</code>, Pemindai SQLi, dan banyak lagi</li>
     <li>Mempelajari Eksploitasi Web, OSINT, dan Pentesting langkah demi langkah</li>
   </ul>
 
